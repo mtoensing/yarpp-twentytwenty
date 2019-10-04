@@ -1,6 +1,6 @@
 <?php
 /*
-  Plugin Name: YARPP Helper Twenty Nineteen
+  Plugin Name: YARPP Helper Twenty Twenty
   Plugin URI: http://marc.tv/marctv-wordpress-plugins/
   Description: YARPP related list for twentyseventeen with lazy load.
   GitHub Plugin URI: mtoensing/yarpp-twentytwenty
